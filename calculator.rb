@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = Float
+first_number = Integer || Float
